@@ -65,7 +65,7 @@
 					<mainClass>ftm.util.SchemaGenerator</mainClass>
 					<arguments>
 						<argument>ftm</argument>
-						<argument>${project.basedir}/src/main/resources/sql/generated/</argument>
+						<argument>${project.basedir}/src/main/resources/generated/</argument>
 					</arguments>
 				</configuration>
 			</plugin>
